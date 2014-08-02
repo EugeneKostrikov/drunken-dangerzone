@@ -1,0 +1,16 @@
+{
+  "name": "drunken",
+  "version": "0.0.0",
+  "homepage": "https://github.com/ariadnna91/drunken-dangerzone",
+  "authors": [
+    "Julia <ariadnna91@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
